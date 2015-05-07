@@ -1,5 +1,10 @@
 package application.session.manager;
+/*
+ * @author vikram wankhede
+ * @date 4/5/2015
+ */
 
+// Enum datatype is used to store different languages
 public enum Language {
     English(0),
     Dutch(1),

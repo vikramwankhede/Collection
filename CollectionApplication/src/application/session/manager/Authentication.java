@@ -1,5 +1,10 @@
 package application.session.manager;
+/*
+ * @author vikram wankhede
+ * @date 4/5/2015
+ */
 
+// Enum data type is used to store various authentication type
 public enum Authentication {
     None(0),
     AdlibPbk(1),
